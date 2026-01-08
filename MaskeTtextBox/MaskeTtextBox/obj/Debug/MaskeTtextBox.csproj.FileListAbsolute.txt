@@ -1,0 +1,10 @@
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\MaskeTtextBox\MaskeTtextBox\bin\Debug\MaskeTtextBox.exe.config
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\MaskeTtextBox\MaskeTtextBox\bin\Debug\MaskeTtextBox.exe
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\MaskeTtextBox\MaskeTtextBox\bin\Debug\MaskeTtextBox.pdb
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\MaskeTtextBox\MaskeTtextBox\obj\Debug\MaskeTtextBox.csproj.AssemblyReference.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\MaskeTtextBox\MaskeTtextBox\obj\Debug\MaskeTtextBox.Form1.resources
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\MaskeTtextBox\MaskeTtextBox\obj\Debug\MaskeTtextBox.Properties.Resources.resources
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\MaskeTtextBox\MaskeTtextBox\obj\Debug\MaskeTtextBox.csproj.GenerateResource.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\MaskeTtextBox\MaskeTtextBox\obj\Debug\MaskeTtextBox.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\MaskeTtextBox\MaskeTtextBox\obj\Debug\MaskeTtextBox.exe
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\MaskeTtextBox\MaskeTtextBox\obj\Debug\MaskeTtextBox.pdb

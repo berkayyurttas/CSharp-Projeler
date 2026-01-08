@@ -1,0 +1,10 @@
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\loginpaneli oluşturma\loginpaneli oluşturma\bin\Debug\loginpaneli oluşturma.exe.config
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\loginpaneli oluşturma\loginpaneli oluşturma\bin\Debug\loginpaneli oluşturma.exe
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\loginpaneli oluşturma\loginpaneli oluşturma\bin\Debug\loginpaneli oluşturma.pdb
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\loginpaneli oluşturma\loginpaneli oluşturma\obj\Debug\loginpaneli oluşturma.csproj.AssemblyReference.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\loginpaneli oluşturma\loginpaneli oluşturma\obj\Debug\loginpaneli_oluşturma.Form1.resources
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\loginpaneli oluşturma\loginpaneli oluşturma\obj\Debug\loginpaneli_oluşturma.Properties.Resources.resources
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\loginpaneli oluşturma\loginpaneli oluşturma\obj\Debug\loginpaneli oluşturma.csproj.GenerateResource.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\loginpaneli oluşturma\loginpaneli oluşturma\obj\Debug\loginpaneli oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\loginpaneli oluşturma\loginpaneli oluşturma\obj\Debug\loginpaneli oluşturma.exe
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\loginpaneli oluşturma\loginpaneli oluşturma\obj\Debug\loginpaneli oluşturma.pdb

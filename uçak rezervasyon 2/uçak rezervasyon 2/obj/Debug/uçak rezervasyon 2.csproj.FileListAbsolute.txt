@@ -1,0 +1,10 @@
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\uçak rezervasyon 2\uçak rezervasyon 2\bin\Debug\uçak rezervasyon 2.exe.config
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\uçak rezervasyon 2\uçak rezervasyon 2\bin\Debug\uçak rezervasyon 2.exe
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\uçak rezervasyon 2\uçak rezervasyon 2\bin\Debug\uçak rezervasyon 2.pdb
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\uçak rezervasyon 2\uçak rezervasyon 2\obj\Debug\uçak rezervasyon 2.csproj.AssemblyReference.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\uçak rezervasyon 2\uçak rezervasyon 2\obj\Debug\uçak_rezervasyon_2.Form1.resources
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\uçak rezervasyon 2\uçak rezervasyon 2\obj\Debug\uçak_rezervasyon_2.Properties.Resources.resources
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\uçak rezervasyon 2\uçak rezervasyon 2\obj\Debug\uçak rezervasyon 2.csproj.GenerateResource.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\uçak rezervasyon 2\uçak rezervasyon 2\obj\Debug\uçak rezervasyon 2.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\uçak rezervasyon 2\uçak rezervasyon 2\obj\Debug\uçak rezervasyon 2.exe
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\uçak rezervasyon 2\uçak rezervasyon 2\obj\Debug\uçak rezervasyon 2.pdb

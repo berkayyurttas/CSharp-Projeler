@@ -1,0 +1,10 @@
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\merhaba dünya\merhaba dünya\bin\Debug\merhaba dünya.exe.config
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\merhaba dünya\merhaba dünya\bin\Debug\merhaba dünya.exe
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\merhaba dünya\merhaba dünya\bin\Debug\merhaba dünya.pdb
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\merhaba dünya\merhaba dünya\obj\Debug\merhaba dünya.csproj.AssemblyReference.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\merhaba dünya\merhaba dünya\obj\Debug\merhaba_dünya.Form1.resources
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\merhaba dünya\merhaba dünya\obj\Debug\merhaba_dünya.Properties.Resources.resources
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\merhaba dünya\merhaba dünya\obj\Debug\merhaba dünya.csproj.GenerateResource.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\merhaba dünya\merhaba dünya\obj\Debug\merhaba dünya.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\merhaba dünya\merhaba dünya\obj\Debug\merhaba dünya.exe
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\merhaba dünya\merhaba dünya\obj\Debug\merhaba dünya.pdb

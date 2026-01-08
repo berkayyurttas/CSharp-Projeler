@@ -1,0 +1,10 @@
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\ödev\ödev\bin\Debug\ödev.exe.config
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\ödev\ödev\bin\Debug\ödev.exe
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\ödev\ödev\bin\Debug\ödev.pdb
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\ödev\ödev\obj\Debug\ödev.csproj.AssemblyReference.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\ödev\ödev\obj\Debug\ödev.Form1.resources
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\ödev\ödev\obj\Debug\ödev.Properties.Resources.resources
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\ödev\ödev\obj\Debug\ödev.csproj.GenerateResource.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\ödev\ödev\obj\Debug\ödev.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\ödev\ödev\obj\Debug\ödev.exe
+C:\Users\Berkay\OneDrive\Masaüstü\udemy projeler c#\ödev\ödev\obj\Debug\ödev.pdb
